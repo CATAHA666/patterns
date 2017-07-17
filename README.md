@@ -1,1 +1,4 @@
 # patterns
+
+gulp = npm i
+
